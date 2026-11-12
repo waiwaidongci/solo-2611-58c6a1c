@@ -50,3 +50,14 @@
 - `batch-plan.md`
 - `projects/gb-7001` 至 `projects/gb-7025`
 - `test-artifacts/gb-7001` 至 `test-artifacts/gb-7025`
+
+## Project Hub 上传
+
+- 工程台：http://localhost:8088/engineering
+- 上传结果：25/25 `ready`，失败 0，待分析 0。
+- 工程标签：数据工程 / 数据分析与数据应用。
+- 截图资产：150 个（每项 1 张启动截图 + 5 张功能截图），逐个请求校验成功。
+- 源码来源：https://github.com/waiwaidongci/solo-2611-58c6a1c
+- 固定 ref：`58c6a1cbc7b392b8fcd696c81fc56c0ff53d286c`
+- 上传清单：`test-artifacts/project-hub-upload.json`
+- 工程台当前未配置 GitHub 灾备账号，因此上传结果的 `backup_status` 为 `unconfigured`；本地工程版本、ZIP、截图与分析结果均已保存。

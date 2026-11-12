@@ -1,0 +1,410 @@
+{
+  "project_hub": "http://localhost:8088",
+  "github_url": "https://github.com/waiwaidongci/solo-2611-58c6a1c",
+  "github_ref": "58c6a1cbc7b392b8fcd696c81fc56c0ff53d286c",
+  "tag_id": "13df934e-60fb-446c-bed9-e2667a50613d",
+  "uploaded": 25,
+  "failed": 0,
+  "items": [
+    {
+      "id": "gb-7001",
+      "name": "发酵实验判读台",
+      "status": "pass",
+      "job_id": "1e8231d7-9a4b-47e1-a5f0-bdf4a36c7108",
+      "backup_status": "unconfigured",
+      "engineering_id": "bbf70f78-c07a-45cb-accf-e07ebec9f018",
+      "version_id": "29765167-90a5-4b65-aae1-9a331b5e5c09",
+      "version_number": 1,
+      "source_file_count": 79,
+      "total_file_count": 96,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7002",
+      "name": "冷链传感器相关室",
+      "status": "pass",
+      "job_id": "5653f35d-f281-40ae-8e1f-73ac95056485",
+      "backup_status": "unconfigured",
+      "engineering_id": "f781d037-e72c-4f32-aff1-db0e549e95db",
+      "version_id": "6544b873-522b-4178-91f8-f70954a7e4d0",
+      "version_number": 1,
+      "source_file_count": 77,
+      "total_file_count": 98,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7003",
+      "name": "田间试验判读册",
+      "status": "pass",
+      "job_id": "1b2fafcf-cee5-49d1-837e-d3d560d7f137",
+      "backup_status": "unconfigured",
+      "engineering_id": "ffdc18dd-c3f8-4f13-ac49-68a6c4a22f7f",
+      "version_id": "6f8c3906-0086-4de6-a242-cf36bb4cd17d",
+      "version_number": 1,
+      "source_file_count": 79,
+      "total_file_count": 96,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7004",
+      "name": "检验分布漂移台",
+      "status": "pass",
+      "job_id": "1a64b6ee-7da4-4f5f-9fb6-c8180e5042c8",
+      "backup_status": "unconfigured",
+      "engineering_id": "4e0e24ed-de12-432e-8a58-aee85de86e4e",
+      "version_id": "ac650108-dea9-4fb9-b7e9-795ad08dd556",
+      "version_number": 1,
+      "source_file_count": 77,
+      "total_file_count": 98,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7005",
+      "name": "会员分群工坊",
+      "status": "pass",
+      "job_id": "1c63b36c-84a5-442f-89a0-6f449f8a00e9",
+      "backup_status": "unconfigured",
+      "engineering_id": "1432c18a-7bff-4db0-a74b-a507631adea2",
+      "version_id": "70719695-1005-444a-9774-b152cbf06350",
+      "version_number": 1,
+      "source_file_count": 79,
+      "total_file_count": 96,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7006",
+      "name": "便利购物篮图谱",
+      "status": "pass",
+      "job_id": "ae3db839-443a-473d-ae92-ab512240ef7b",
+      "backup_status": "unconfigured",
+      "engineering_id": "5d3ffa65-8057-4831-b1c7-b7e6c072785e",
+      "version_id": "c214906a-920e-4f8c-971f-55ccad26f5f3",
+      "version_number": 1,
+      "source_file_count": 77,
+      "total_file_count": 98,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7007",
+      "name": "订阅流失预警台",
+      "status": "pass",
+      "job_id": "25b3f7c9-a419-4cca-a7f0-d75566b1eebc",
+      "backup_status": "unconfigured",
+      "engineering_id": "02498c17-1d33-4e01-bc76-abf9e667e02f",
+      "version_id": "eeadf7de-1b50-41f9-8290-21dbbe02d7bb",
+      "version_number": 1,
+      "source_file_count": 79,
+      "total_file_count": 96,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7008",
+      "name": "设备特征试验室",
+      "status": "pass",
+      "job_id": "70771ca3-c4e8-4d0b-af84-65919995cf23",
+      "backup_status": "unconfigured",
+      "engineering_id": "d0f35799-2471-41c1-b3b2-81406fc67c44",
+      "version_id": "6248a97c-7c5d-4b87-b649-4fe38a9b1456",
+      "version_number": 1,
+      "source_file_count": 77,
+      "total_file_count": 98,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7009",
+      "name": "模型评测档案室",
+      "status": "pass",
+      "job_id": "2a61fdde-7551-4f21-bf7e-cabfda12434e",
+      "backup_status": "unconfigured",
+      "engineering_id": "ad53d29b-0947-4a91-8b56-a59a8cf8e200",
+      "version_id": "53954566-5303-4307-9eb4-c2fb547f6bcd",
+      "version_number": 1,
+      "source_file_count": 79,
+      "total_file_count": 96,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7010",
+      "name": "指标口径登记处",
+      "status": "pass",
+      "job_id": "2d7d2f74-c6f9-4122-b725-e69425fb3f89",
+      "backup_status": "unconfigured",
+      "engineering_id": "0aefc642-93a1-4ef5-9278-4e0c7a9ea2a4",
+      "version_id": "5817adb5-4423-47ce-98e9-6e933d3c4857",
+      "version_number": 1,
+      "source_file_count": 77,
+      "total_file_count": 98,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7011",
+      "name": "物流透视调度桌",
+      "status": "pass",
+      "job_id": "f2e463af-c343-460f-ae77-0e9a4d8f8a6d",
+      "backup_status": "unconfigured",
+      "engineering_id": "b48d2674-eac7-4d67-b85c-92387e48b009",
+      "version_id": "4c491c18-e597-4514-807b-4b8932b9955f",
+      "version_number": 1,
+      "source_file_count": 79,
+      "total_file_count": 96,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7012",
+      "name": "报表投递值守台",
+      "status": "pass",
+      "job_id": "f81a758d-e3de-4d39-861d-d7ea816e3f60",
+      "backup_status": "unconfigured",
+      "engineering_id": "2749daab-496d-486c-916b-107e12b41915",
+      "version_id": "18422010-2854-47f5-aeff-c4ff729abbd0",
+      "version_number": 1,
+      "source_file_count": 77,
+      "total_file_count": 98,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7013",
+      "name": "营销归因航线图",
+      "status": "pass",
+      "job_id": "2a77d0f4-b65d-4850-9e88-c9716478ceca",
+      "backup_status": "unconfigured",
+      "engineering_id": "4e2bcc70-5d3a-4e0b-8def-51c15fdc7970",
+      "version_id": "4319ba39-9437-4376-a3e6-fcc5b83fe4ee",
+      "version_number": 1,
+      "source_file_count": 79,
+      "total_file_count": 96,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7014",
+      "name": "生鲜需求预测室",
+      "status": "pass",
+      "job_id": "3a9fae35-5dc1-45ad-970b-a4fd8c615af6",
+      "backup_status": "unconfigured",
+      "engineering_id": "3aeb1268-984f-46f8-8d66-be77f69d20a2",
+      "version_id": "2fd1b739-cebf-4045-aa8b-8285da47603f",
+      "version_number": 1,
+      "source_file_count": 77,
+      "total_file_count": 98,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7015",
+      "name": "交易异常复核台",
+      "status": "pass",
+      "job_id": "24ccc809-dd0b-4989-9b42-5d30c85cedba",
+      "backup_status": "unconfigured",
+      "engineering_id": "167f910e-c803-4dbc-8022-b4186587f4f7",
+      "version_id": "ec32ff27-5914-44f8-874e-df08b8b72b1e",
+      "version_number": 1,
+      "source_file_count": 79,
+      "total_file_count": 96,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7016",
+      "name": "产品队列留存册",
+      "status": "pass",
+      "job_id": "f54f60df-a01b-4a77-a235-80d217993308",
+      "backup_status": "unconfigured",
+      "engineering_id": "5a185f8a-af84-4cec-b0e3-d4ed8e082870",
+      "version_id": "aa35f76a-04a5-4ce8-9542-d1764cd57599",
+      "version_number": 1,
+      "source_file_count": 77,
+      "total_file_count": 98,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7017",
+      "name": "开户漏斗诊断台",
+      "status": "pass",
+      "job_id": "d493a96a-07be-402b-a325-dd9422d6ba1c",
+      "backup_status": "unconfigured",
+      "engineering_id": "a83e9013-bdc3-419d-b02e-423000c0068c",
+      "version_id": "bcb5d1c3-edbf-4ee0-b9b2-c803a7f6e3c6",
+      "version_number": 1,
+      "source_file_count": 79,
+      "total_file_count": 96,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7018",
+      "name": "票价弹性实验室",
+      "status": "pass",
+      "job_id": "7dca9dd2-c4ae-4d9a-928e-87390d8620c4",
+      "backup_status": "unconfigured",
+      "engineering_id": "59e091f2-6689-4e3c-a960-9f5a7e76cb15",
+      "version_id": "eacabf48-cf0b-4f3b-9ef4-8587632420e2",
+      "version_number": 1,
+      "source_file_count": 77,
+      "total_file_count": 98,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7019",
+      "name": "问卷样本校准室",
+      "status": "pass",
+      "job_id": "3bd0fa1a-7f48-47e7-9d18-21689dda3d8c",
+      "backup_status": "unconfigured",
+      "engineering_id": "9ea62e70-02d7-434c-8e86-d5209a6d159b",
+      "version_id": "d88c7a0c-ff66-42db-8b6c-008557746cca",
+      "version_number": 1,
+      "source_file_count": 79,
+      "total_file_count": 96,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7020",
+      "name": "批次质量分组台",
+      "status": "pass",
+      "job_id": "e60ee3d4-f530-4327-b7f8-c4bcfda0ff0b",
+      "backup_status": "unconfigured",
+      "engineering_id": "59e30583-88ca-4b6e-938f-9fc081b70f1c",
+      "version_id": "051257f1-94f3-473e-bd5c-c0b730ae159a",
+      "version_number": 1,
+      "source_file_count": 77,
+      "total_file_count": 98,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7021",
+      "name": "审批阈值调优台",
+      "status": "pass",
+      "job_id": "97623502-5383-4624-943a-1d430665786e",
+      "backup_status": "unconfigured",
+      "engineering_id": "d440669b-89f6-4858-aab6-f5ae60956ecb",
+      "version_id": "9be9a3ec-46ad-42aa-baad-8f2851b92927",
+      "version_number": 1,
+      "source_file_count": 79,
+      "total_file_count": 96,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7022",
+      "name": "工单决策树解译",
+      "status": "pass",
+      "job_id": "12d5be5d-ed98-41df-82b7-9ee55a310232",
+      "backup_status": "unconfigured",
+      "engineering_id": "6972685a-e8ec-4d46-892a-d64bd7e6ea9b",
+      "version_id": "fb778420-c56d-4cdc-b3f9-6b907caf9db9",
+      "version_number": 1,
+      "source_file_count": 77,
+      "total_file_count": 98,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7023",
+      "name": "客诉主题聚类室",
+      "status": "pass",
+      "job_id": "692b170d-a4e6-44ca-b331-27e2bad47ccd",
+      "backup_status": "unconfigured",
+      "engineering_id": "d950ebca-ade9-4db1-b2e4-f7dcb95ab1da",
+      "version_id": "5c2e632e-57b6-4838-93d2-76486ff66735",
+      "version_number": 1,
+      "source_file_count": 79,
+      "total_file_count": 96,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7024",
+      "name": "配送热区测绘台",
+      "status": "pass",
+      "job_id": "d3e30f6d-3374-4cf6-bce7-5eda03642287",
+      "backup_status": "unconfigured",
+      "engineering_id": "11ccbaa1-20fa-4463-98dd-e753543070bc",
+      "version_id": "3eda766c-e2a5-4e8d-9da1-eccd9b3b519d",
+      "version_number": 1,
+      "source_file_count": 77,
+      "total_file_count": 98,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    },
+    {
+      "id": "gb-7025",
+      "name": "实验样本量计算所",
+      "status": "pass",
+      "job_id": "8eec1d20-8189-489d-9290-863a28cdf8ab",
+      "backup_status": "unconfigured",
+      "engineering_id": "7134a28e-1fd3-41e6-8cda-9cd5a0b6e9ed",
+      "version_id": "0ded6916-3fa2-43f1-8c7b-f960c8abffb5",
+      "version_number": 1,
+      "source_file_count": 79,
+      "total_file_count": 96,
+      "assets": 6,
+      "tags": [
+        "数据分析与数据应用"
+      ]
+    }
+  ]
+}
