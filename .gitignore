@@ -1,0 +1,11 @@
+.DS_Store
+**/.env
+**/node_modules/
+**/dist/
+**/__pycache__/
+**/*.pyc
+**/*.tsbuildinfo
+projects/**/package-lock.json
+**/.venv/
+test-artifacts/**/logs/
+test-artifacts/node_modules/
